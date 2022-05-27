@@ -27,3 +27,4 @@
 - [@FabioFSS](https://github.com/FabioFSS) - Idea & Initial work
 - [@WelvisSS](https://github.com/WelvisSS) - Idea & Initial work
 - [@Strovsk](https://github.com/Strovsk) - Idea & Initial work
+- [@brenoriios](https://github.com/brenoriios) - Idea & Initial work
